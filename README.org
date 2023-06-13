@@ -1,0 +1,10 @@
+* SNARK
+
+SNARK - SRI's New Automated Reasoning Kit
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nilqed/SNARK.git   |
+| commit  | 582338f  |
+| systems | SNARK |
+|---------+-------------------------------------------|
+
