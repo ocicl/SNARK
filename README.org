@@ -4,6 +4,6 @@ SNARK - SRI's New Automated Reasoning Kit
 
 |---------+---------------------------------------------------------------------------------------------------|
 | source  | git:https://github.com/nilqed/SNARK.git                                                           |
-| commit  | 6e43d37                                                                                           |
+| commit  | a9ad527                                                                                           |
 | systems | snark-dpll snark-infix-reader snark-auxiliary-packages snark-implementation snark-loads snark-pkg |
 |---------+---------------------------------------------------------------------------------------------------|
