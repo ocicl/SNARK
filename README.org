@@ -7,3 +7,4 @@ SNARK - SRI's New Automated Reasoning Kit
 | commit  | 85672f2                                                                                           |
 | systems | snark-dpll snark-infix-reader snark-auxiliary-packages snark-implementation snark-loads snark-pkg |
 |---------+---------------------------------------------------------------------------------------------------|
+ 
